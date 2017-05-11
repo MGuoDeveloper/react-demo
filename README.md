@@ -1,5 +1,3 @@
-![](http://i.imgur.com/DUiL9yn.png)
-
 # React/Sass/Redux Simple example
 
 Create a list and display item details.
@@ -22,3 +20,5 @@ Start the development server (changes will now update live in browser)
 ```
 
 To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
+
+![](http://i.imgur.com/DUiL9yn.png)
